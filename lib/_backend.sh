@@ -69,7 +69,7 @@ DB_PASS=${mysql_root_password}
 DB_NAME=${instancia_add}
 DB_PORT=5432
 
-GEMINI_API_KEY=AIzaSyBSfas1EubBL1MvtwIqmF6_gJko6s_BjyY
+GEMINI_API_KEY=AIzaSyBSfas1EubBL1MvtwIqmF6_gJko6s_BjyJ
 
 CERTIFICADOS=false
 HTTPS=false
